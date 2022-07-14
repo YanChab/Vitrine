@@ -1,0 +1,12 @@
+C:\Users\ychab\Repos\Vitrine\Shared\bin\Debug\net6.0\Vitrine.Shared.deps.json
+C:\Users\ychab\Repos\Vitrine\Shared\bin\Debug\net6.0\Vitrine.Shared.dll
+C:\Users\ychab\Repos\Vitrine\Shared\bin\Debug\net6.0\Vitrine.Shared.pdb
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\Vitrine.Shared.csproj.AssemblyReference.cache
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\Vitrine.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\Vitrine.Shared.AssemblyInfoInputs.cache
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\Vitrine.Shared.AssemblyInfo.cs
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\Vitrine.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\Vitrine.Shared.dll
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\refint\Vitrine.Shared.dll
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\Vitrine.Shared.pdb
+C:\Users\ychab\Repos\Vitrine\Shared\obj\Debug\net6.0\ref\Vitrine.Shared.dll
