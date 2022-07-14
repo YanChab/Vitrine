@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "vscode-webview://0mreuhm4dnqbi48hv8mhldm0qc8urcsnojpsi8hmrs1buoc4kfo9",
+  "source": "vscode-webview://1k8s4idu57pk2qfpe7chrd4qf0lf9k3ts1leil3a2fqkfcg6h697",
   "elements": [
     {
       "type": "rectangle",
@@ -105,8 +105,8 @@
     },
     {
       "type": "rectangle",
-      "version": 730,
-      "versionNonce": 1586809160,
+      "version": 833,
+      "versionNonce": 1501403727,
       "isDeleted": false,
       "id": "oem94MRlen7v0bcWUY1vb",
       "fillStyle": "hachure",
@@ -115,12 +115,12 @@
       "roughness": 2,
       "opacity": 0,
       "angle": 0,
-      "x": 287.2001419067383,
-      "y": 183.00000762939453,
+      "x": 303.1914749145508,
+      "y": 183.9913330078125,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 448,
-      "height": 36,
+      "width": 506.5652465820312,
+      "height": 37,
       "seed": 505976648,
       "groupIds": [],
       "strokeSharpness": "round",
@@ -142,13 +142,13 @@
           "id": "VWZ0Li7LWkDAQ8JqPb67D"
         }
       ],
-      "updated": 1650811895893,
+      "updated": 1657786979081,
       "link": null
     },
     {
       "type": "text",
-      "version": 574,
-      "versionNonce": 991189320,
+      "version": 656,
+      "versionNonce": 1185224559,
       "isDeleted": false,
       "id": "VWZ0Li7LWkDAQ8JqPb67D",
       "fillStyle": "hachure",
@@ -157,26 +157,26 @@
       "roughness": 2,
       "opacity": 100,
       "angle": 0,
-      "x": 292.2001419067383,
-      "y": 188.00000762939453,
+      "x": 308.1914749145508,
+      "y": 188.9913330078125,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 438,
-      "height": 26,
+      "width": 496.5652465820312,
+      "height": 27,
       "seed": 667246904,
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElements": [],
-      "updated": 1650811895626,
+      "updated": 1657786978929,
       "link": null,
       "fontSize": 20,
       "fontFamily": 1,
-      "text": "Supprimer les bordures rajoutées en natif :",
-      "baseline": 18,
+      "text": "Supprimer les bordures rajoutées en natif : yo",
+      "baseline": 19,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "oem94MRlen7v0bcWUY1vb",
-      "originalText": "Supprimer les bordures rajoutées en natif :"
+      "originalText": "Supprimer les bordures rajoutées en natif : yo"
     }
   ],
   "appState": {
